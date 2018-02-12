@@ -1,0 +1,4 @@
+# Dependencies
+node_modules
+# ngrok for demo
+ngrok.exe

@@ -1,0 +1,24 @@
+{
+  "name": "line-bot-echo-template",
+  "version": "1.0.0",
+  "description": "line-bot-echo-template",
+  "main": "echo.js",
+  "dependencies": {
+    "@line/bot-sdk": "^5.2.0",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuangLiPang/line-bot-echo-template.git"
+  },
+  "author": {
+    "name": "Leo Huang",
+    "email": "leo89214749@hotmail.com"
+  },
+  "license": "ISC"
+}
